@@ -3,4 +3,4 @@ openpyxl
 seaborn
 matplotlib
 pandas
-PIL
+Pillow

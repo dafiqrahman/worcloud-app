@@ -1,0 +1,6 @@
+wordcloud
+openpyxl
+seaborn
+matplotlib
+pandas
+PIL
